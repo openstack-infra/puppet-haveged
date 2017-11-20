@@ -1,0 +1,10 @@
+Verified+1: Jenkins
+Code-Review+2: yolanda.robla <yroblamo@redhat.com>
+Code-Review+2: Paul Belanger <pabelanger@redhat.com>
+Workflow+1: Paul Belanger <pabelanger@redhat.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 20 Nov 2017 21:51:42 +0000
+Reviewed-on: https://review.openstack.org/461568
+Project: openstack-infra/puppet-haveged
+Branch: refs/heads/master

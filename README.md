@@ -1,5 +1,3 @@
-# OpenStack Haveged Module
+# This repo has moved to OpenDev
 
-## Overview
-
-Installs haveged entropy daemon.
+It can now be found at [https://opendev.org/opendev/puppet-haveged](https://opendev.org/opendev/puppet-haveged)
